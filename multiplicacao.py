@@ -1,10 +1,5 @@
-def dividir(a, b):
+def multiplicar(a, b):
 
-    """Retorna a divisão de dois números ou None se for divisão por zero."""
+    """Retorna a multiplicação de dois números."""
 
-    if b == 0:
-
-        return None
-
-    return a / b
-
+    return a * b
