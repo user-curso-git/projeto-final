@@ -1,6 +1,6 @@
 # Importando as funções dos outros arquivos
 
-from soma import somar
+from adicao import somar
 
 from subtracao import subtrair
 
